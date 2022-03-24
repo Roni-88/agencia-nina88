@@ -10,4 +10,6 @@ Totalmente responsiva, ficando boa para consumo em qualquer plataforma.
 - CSS
 - JavaScript
 
-[<img src="./agencia.gif" alt="gif da tela do projeto">](https://github.com/Roni-88)
+[<img src="./agencia.gif" alt="gif da tela do projeto">](https://roni-88.github.io/agencia-nina88)
+
+Clique na imagem para acessar o projeto!
